@@ -8,6 +8,24 @@
 
 Prometheus is a **Darwinian code evolution engine** that implements natural selection principles to automatically improve code. Inspired by biological evolution, it generates code variants, evaluates their fitness, applies genetic mutations, and selects the fittest individuals for the next generation.
 
+## 🎬 Demo
+![Prometheus Demo](demo.gif)
+
+*Self-improving code evolution engine*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Evolution View | ![evolution](screenshots/evolution.png) |
+| Genome Browser | ![genome](screenshots/genome-browser.png) |
+| Fitness Landscape | ![landscape](screenshots/fitness-landscape.png) |
+
+## Visual Description
+Evolution view shows population diversity and improvement. Genome browser displays code genes with mutation effects. Fitness landscape plots performance across solution space.
+
+---
+
+
 ## Table of Contents
 
 - [Overview](#overview)
